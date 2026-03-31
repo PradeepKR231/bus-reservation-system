@@ -1,0 +1,43 @@
+const busSeatData = [
+    { id: 'B1', status: 'booked' },
+    { id: 'B3', status: 'booked' },
+    { id: 'B5', status: 'booked' },
+    { id: 'B7', status: 'available' },
+    { id: 'B9', status: 'available' },
+    { id: 'B11', status: 'booked' },
+    { id: 'B13', status: 'booked' },
+    { id: 'B15', status: 'available' },
+    { id: 'B17', status: 'available' },
+
+    { id: 'B2', status: 'booked' },
+    { id: 'B4', status: 'booked' },
+    { id: 'B6', status: 'available' },
+    { id: 'B8', status: 'available' },
+    { id: 'B10', status: 'available' },
+    { id: 'B12', status: 'booked' },
+    { id: 'B14', status: 'available' },
+    { id: 'B16', status: 'available' },
+    { id: 'B18', status: 'available' },
+
+    { id: 'A1', status: 'booked' },
+    { id: 'A3', status: 'available' },
+    { id: 'A5', status: 'booked' },
+    { id: 'A7', status: 'booked' },
+    { id: 'A9', status: 'available' },
+    { id: 'A11', status: 'booked' },
+    { id: 'A13', status: 'booked' },
+    { id: 'A15', status: 'available' },
+    { id: 'A17', status: 'available' },
+
+    { id: 'A2', status: 'available' },
+    { id: 'A4', status: 'available' },
+    { id: 'A6', status: 'booked' },
+    { id: 'A8', status: 'available' },
+    { id: 'A10', status: 'booked' },
+    { id: 'A12', status: 'booked' },
+    { id: 'A14', status: 'available' },
+    { id: 'A16', status: 'available' },
+    { id: 'A18', status: 'available' },
+];
+
+export default busSeatData;
